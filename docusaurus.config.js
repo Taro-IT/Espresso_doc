@@ -3,15 +3,15 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Espresso',
-  tagline: 'IT Department',
-  url: 'https://taro-it.github.io/Espresso_doc/',
-  baseUrl: '/docs/',
+  title: 'Espresso Project',
+  tagline: 'TARO IT Department',
+  url: 'https://taro-it.github.io',
+  baseUrl: '/Espresso_doc/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'Espresso',
-  projectName: 'docs',
+  organizationName: 'Taro-IT',
+  projectName: 'Espresso_doc',
   themeConfig: {
     navbar: {
       logo: {
