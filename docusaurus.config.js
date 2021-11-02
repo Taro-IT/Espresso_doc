@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Espresso',
   tagline: 'IT Department',
-  url: 'https://taro-it.github.io',
+  url: 'https://taro-it.github.io/Espresso_doc/',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -21,7 +21,7 @@ module.exports = {
       },
       items: [
         {
-          href: 'https://github.com/Taro-IT/docs',
+          href: 'https://taro-it.github.io/Espresso_doc/',
           label: 'GitHub',
           position: 'right',
         },
@@ -48,7 +48,7 @@ module.exports = {
           // Please change this to your repo.
           remarkPlugins: [require('mdx-mermaid')],
           editUrl:
-            'https://github.com/Taro-IT/docs/edit/main/',
+            'https://github.com/Taro-IT/Espresso/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
