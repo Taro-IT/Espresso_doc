@@ -41,7 +41,7 @@ _Instalaremos las dependencias de Laravel/composer_
 composer install
 ```
 
-_Copiaremos el contenido archivo .env.example en un nuevo archivo llamado .env en el mismo path en el que se encuetra_
+_Copiaremos el contenido del archivo .env.example en un nuevo archivo llamado .env en el mismo path en el que se encuentra_
 
 ```
 cp .env.example .env
@@ -92,8 +92,7 @@ Debera mandarte al link http://127.0.0.1:8000
 
 ## Ejecutando las pruebas ⚙️
 
-_Dentro del sistema se configuraron pruebas automaticas sigue los sigueintes pasos para correr ya sean 
-generales o individuales_
+_Dentro del sistema se configuraron pruebas automaticas sigue los siguientes pasos para correr las pruebas generales o individuales_
 
 ### Analice las pruebas end-to-end 🔩
 
