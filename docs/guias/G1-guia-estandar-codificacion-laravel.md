@@ -1,4 +1,4 @@
-# G16 - Guía de estándar de codificación en laravel
+# G1 - Guía de estándar de codificación en laravel
 
 ## Objetivo(s)
 

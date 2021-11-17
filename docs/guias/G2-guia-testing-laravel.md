@@ -1,4 +1,4 @@
-# G19 - Guía para Testing en Laravel
+# G2 - Guía para Testing en Laravel
 
 ## Objetivo(s)
 
