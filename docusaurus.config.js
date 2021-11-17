@@ -17,8 +17,8 @@ module.exports = {
     navbar: {
       logo: {
         alt: 'Espresso logo',
-        src: '/docs/img/default-monochrome.svg',
-        srcDark: '/docs/img/default-monochrome.svg',
+        src: '/Espresso_doc/img/default-monochrome.svg',
+        srcDark: '/Espresso_doc/img/default-monochrome.svg',
       },
       items: [
         {
