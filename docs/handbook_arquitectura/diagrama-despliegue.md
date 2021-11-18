@@ -1,6 +1,6 @@
 # Diagrama de despliegue
 
-![Diagrama](/img/diagrama-de-despliegue.png)
+![alt text](../../src/img/diagrama-de-despliegue.png)
 
 # Bitácora de cambios
 
